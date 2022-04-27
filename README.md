@@ -1,4 +1,11 @@
-# restion
+### EIS-RESTION
+
+Product backlog:
+https://trello.com/b/8geFjsqw/eis
+
+Repositorio:
+
+https://github.com/NicoNietoCowes/restion
 
 ## Project setup
 ```
@@ -22,3 +29,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
